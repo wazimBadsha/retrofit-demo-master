@@ -1,0 +1,1 @@
+json.(profile, :id, :name, :email, :phone)
